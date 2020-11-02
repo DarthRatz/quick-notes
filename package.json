@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@aws-amplify/predictions": "^3.2.4",
-    "@emotion/core": "^10.0.16",
+    "@emotion/core": "^10.1.0",
     "@emotion/styled": "^10.0.15",
     "@reach/dialog": "^0.2.9",
     "@reach/tabs": "^0.1.6",
